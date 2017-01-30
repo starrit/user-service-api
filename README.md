@@ -1,5 +1,6 @@
-# starrit/user-service-api
+# starrIT User Service API
 
+## Purpose
 Contains GRPC proto file defining User Service protocols, as well as generated classes.
 
 ## Contents
